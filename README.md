@@ -1,9 +1,9 @@
-# GitCareers - Job Board on GitHub
+# GitCareers - ProgrammingJobs
 
 GitCareers is an open-source job board that leverages GitHub Issues for job listings and Pull Requests for applications. This allows developers and companies to interact seamlessly within a familiar workflow.
 
 ## How to Create a New Job Listing
-1. **Go to the Issues tab** in the [Board repository](https://github.com/GitCareers/Board/issues).
+1. **Go to the Issues tab** in the [Board repository](https://github.com/GitCareers/ProgrammingJobs/issues).
 2. **Click "New Issue"** and use the **Job Listing** template.
 3. **Fill in the job details**, including:
    - Job Title
