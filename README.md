@@ -1,6 +1,6 @@
 # GitCareers - ProgrammingJobs
 
-GitCareers is an open-source job board that leverages GitHub Issues for job listings and Pull Requests for job requests, allowing candidates to express interest in positions by submitting a PR with their details or application materials.
+GitCareers is free job board that leverages GitHub Issues for job listings and Pull Requests for job requests, allowing candidates to express interest in positions by submitting a PR with their details or application materials.
 
 ## How to Create a New Job Listing
 1. **Go to the Issues tab** in the [Board repository](https://github.com/GitCareers/ProgrammingJobs/issues).
